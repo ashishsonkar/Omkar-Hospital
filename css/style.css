@@ -1,0 +1,33 @@
+.bg-color{
+	background-color:#0c4c7b !important;
+}
+.bg-color2{
+	background-color:rgba(233,233,233,.41) !important;
+}
+.bg-color3{
+	background-color:#abcae1 !important;
+}
+.color{
+	color:#0c4c7b !important;
+}
+.w-99{
+	width:99% !important;
+	margin:0 auto !important;
+}
+.text-justify{
+	text-align:justify !important;
+}
+.h-334{
+	height:334px !important;
+}
+.border-dashed{
+	border-style:dashed !important;
+}	
+@media (max-width:1400px){
+	#em_call{
+		display:block !important;
+		max-width:90% !important;
+		padding:10px 20px !important;
+		text-align:center !important;
+	}
+}
